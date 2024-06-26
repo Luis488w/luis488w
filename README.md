@@ -5,8 +5,7 @@
 - 🔭 Estou estudando na Alura
 - 🌱Estou me desenvolvendo na linguagem JavaScript
 - 👯Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- 🤔 I’m looking for help with ...
-- 💬 Ask me anything you want
+- 💬 Pergunte-me o que quiser
 - Você pode entrar em contato comigo 📧
 - mortaridapascoa242@gmail.com
 - 😄 Pronouns: ele/dele
