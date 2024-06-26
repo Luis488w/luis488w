@@ -1,16 +1,15 @@
-## Hi there 👋
+##olá pevindo ao meu perfil **github** 🙅‍♂️👍
 
-<!--
-**Luis488w/luis488w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+**Meu nome é Luis Agusto** 
+- 🔭 Estou estudando na Alura
+- 🌱Estou me desenvolvendo na linguagem JavaScript
+- 👯Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything you want
+- Você pode entrar em contato comigo 📧
+- mortaridapascoa242@gmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact:⭐I'm a fan of Jojo's um jojofac de carterinha
+
+![_](https://media1.tenor.com/m/Dii_EyDmKoQAAAAd/dio-jojo.gif)
